@@ -10,28 +10,69 @@
 
 <br>
 
-<h3 align="center">🔭 Current Projects:</h3>
-<p align="center" style="font-size: 1.2em;">Developing cutting-edge applications using Spring Boot.</p>
 
-<h3 align="center">🌱 Learning Journey:</h3>
-<p align="center" style="font-size: 1.2em;">Deepening my knowledge in Data Structures and Algorithms.</p>
 
-<h3 align="center">📫 Get in Touch:</h3>
-<p align="center" style="font-size: 1.2em;">
-  <a href="mailto:2005manishjangid@gmail.com" style="color: #FF4500; text-decoration: none;">2005manishjangid@gmail.com</a>
-</p>
 
-<h3 align="center" style="color: #FF4500;">🌐 Connect with Me:</h3>
-<p align="center">
+
+
+
+
+
+
+
+
+<hr style="border: none; height: 3px; background: #FF4500; margin: 20px 0;"/>
+
+<!-- Current Project, Learning Journey & Get in Touch Section -->
+<h2 align="center" style="color: #58a6ff; font-size: 2.5em;">🚀 Current Focus & Learning Journey</h2>
+
+<ul style="font-size: 1.5em; list-style-type: none; padding: 0; text-align: center; background: rgba(88, 166, 255, 0.1); border-radius: 10px; padding: 15px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);">
+  <li style="margin: 10px 0;">🔭 Currently working on <strong style="color: #58a6ff;">Spring Boot</strong></li>
+  <li style="margin: 10px 0;">🌱 Learning <strong style="color: #58a6ff;">Data Structures and Algorithms</strong></li>
+  <li style="margin: 10px 0;">📫 Get in touch: <strong><a href="mailto:2005manishjangid@gmail.com" style="color: #FF4500; text-decoration: none;">2005manishjangid@gmail.com</a></strong></li>
+</ul>
+
+<hr style="border: none; height: 3px; background: #58a6ff; margin: 20px 0;"/>
+
+<!-- Connect with Me Section -->
+<h2 align="center" style="color: #FF4500; font-size: 2.5em;">🌐 Connect with Me</h2>
+
+<p align="center" style="background: rgba(255, 69, 0, 0.1); border-radius: 20px; padding: 20px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);">
   <a href="https://linkedin.com/in/manishjangid2005" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" style="margin: 10px;"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="50" height="50" style="margin: 10px;"/>
   </a>
   <a href="https://www.leetcode.com/manishjangid2005" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40" style="margin: 10px;"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="50" height="50" style="margin: 10px;"/>
   </a>
 </p>
 
-<hr />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!-- GitHub Streak Section -->
 <h2 align="center" style="color: #FF4500;">🔥 GitHub Streak 🔥</h2>
