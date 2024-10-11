@@ -59,21 +59,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!-- GitHub Streak Section -->
 <h2 align="center" style="color: #FF4500;">🔥 GitHub Streak 🔥</h2>
 <p align="center">
@@ -87,6 +72,27 @@
 <p align="center" style="font-size: 1.1em; color: #FF4500;">Let's keep the streak alive! 🔥</p>
 <hr />
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!-- GitHub Stats and Top Languages Section -->
 <h2 align="center" style="color: #58a6ff;">🚀 GitHub Stats & 💻 Most Used Languages</h2>
 <p align="center">
@@ -94,7 +100,7 @@
     <tr>
       <td>
         <a href="https://github.com/manishjangid2005">
-          <img src="https://github-readme-stats.vercel.app/api?username=manishjangid2005&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true" 
+          <img src="https://github-readme-stats.vercel.app/api?username=manishjangid2005&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true&v=1&token=YOUR_GITHUB_TOKEN" 
                alt="Manish's GitHub Stats" 
                width="300" 
                style="border-radius: 10px; border: 2px solid #58a6ff;" />
@@ -102,7 +108,7 @@
       </td>
       <td>
         <a href="https://github.com/manishjangid2005">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishjangid2005&layout=compact&theme=transparent&hide_border=true" 
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishjangid2005&layout=compact&theme=transparent&hide_border=true&v=1&token=YOUR_GITHUB_TOKEN" 
                alt="Top Languages" 
                width="300" 
                style="border-radius: 10px; border: 2px solid #58a6ff;" />
@@ -113,23 +119,6 @@
 </p>
 <p align="center" style="font-size: 1.1em; color: #58a6ff;">These are the languages I love to code in! 🚀</p>
 <hr />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
