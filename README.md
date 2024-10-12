@@ -90,36 +90,32 @@
 
 
 
-
-
-
 <!-- GitHub Stats and Top Languages Section -->
 <h2 align="center" style="color: #58a6ff;">🚀 GitHub Stats & 💻 Most Used Languages</h2>
 <p align="center">
   <table>
     <tr>
       <td>
+        <!-- GitHub Stats -->
         <a href="https://github.com/manishjangid2005">
-          <img src="https://github-readme-stats.vercel.app/api?username=manishjangid2005&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true&v=1&token=YOUR_GITHUB_TOKEN" 
+          <img src="https://github-readme-stats.vercel.app/api?username=manishjangid2005&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true&v=2&token=YOUR_GITHUB_TOKEN" 
                alt="Manish's GitHub Stats" 
-               width="300" 
+               width="400" 
                style="border-radius: 10px; border: 2px solid #58a6ff;" />
         </a>
       </td>
       <td>
+        <!-- Top Languages -->
         <a href="https://github.com/manishjangid2005">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishjangid2005&layout=compact&theme=transparent&hide_border=true&v=1&token=YOUR_GITHUB_TOKEN" 
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishjangid2005&layout=compact&theme=transparent&hide_border=true&v=2&token=YOUR_GITHUB_TOKEN" 
                alt="Top Languages" 
-               width="300" 
+               width="400" 
                style="border-radius: 10px; border: 2px solid #58a6ff;" />
         </a>
       </td>
     </tr>
   </table>
 </p>
-<p align="center" style="font-size: 1.1em; color: #58a6ff;">These are the languages I love to code in! 🚀</p>
-<hr />
-
 
 
 
