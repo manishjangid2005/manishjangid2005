@@ -59,11 +59,13 @@
 
 
 
+
+
 <!-- GitHub Streak Section -->
 <h2 align="center" style="color: #FF4500;">🔥 GitHub Streak 🔥</h2>
 <p align="center">
   <a href="https://github.com/manishjangid2005">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=manishjangid2005&theme=transparent&hide_border=true" 
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=manishjangid2005&theme=transparent&hide_border=true&v=2" 
          alt="GitHub Streak Stats for Manish Jangid" 
          width="400" 
          style="border-radius: 10px; border: 2px solid #FF4500;" />
@@ -71,8 +73,6 @@
 </p>
 <p align="center" style="font-size: 1.1em; color: #FF4500;">Let's keep the streak alive! 🔥</p>
 <hr />
-
-
 
 
 
