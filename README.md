@@ -66,13 +66,40 @@
 <p align="center">
   <a href="https://github.com/manishjangid2005">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=manishjangid2005&theme=transparent&hide_border=true&v=2" 
-         alt="GitHub Streak Stats for Manish Jangid" 
+         alt="GitHub Streak Stats for Manish Jangid"  
          width="400" 
-         style="border-radius: 10px; border: 2px solid #FF4500;" />
+         style="border-radius: 10px; border: 2px solid #FF4500; box-shadow: 0 4px 15px rgba(255, 69, 0, 0.3);" />
   </a>
 </p>
-<p align="center" style="font-size: 1.1em; color: #FF4500;">Let's keep the streak alive! 🔥</p>
-<hr />
+<p align="center" style="font-size: 1.1em; color: #FF4500;">
+  Let's keep the streak alive! 🚀✨<br />
+  Current streak: <strong>🗓️ Today</strong> - Make your contribution now!
+</p>
+<hr style="border-top: 2px solid #FF4500;" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -91,31 +118,27 @@
 
 
 <!-- GitHub Stats and Top Languages Section -->
-<h2 align="center" style="color: #58a6ff;">🚀 GitHub Stats & 💻 Most Used Languages</h2>
-<p align="center">
-  <table>
-    <tr>
-      <td>
-        <!-- GitHub Stats -->
-        <a href="https://github.com/manishjangid2005">
-          <img src="https://github-readme-stats.vercel.app/api?username=manishjangid2005&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true&v=2&token=YOUR_GITHUB_TOKEN" 
-               alt="Manish's GitHub Stats" 
-               width="400" 
-               style="border-radius: 10px; border: 2px solid #58a6ff;" />
-        </a>
-      </td>
-      <td>
-        <!-- Top Languages -->
-        <a href="https://github.com/manishjangid2005">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishjangid2005&layout=compact&theme=transparent&hide_border=true&v=2&token=YOUR_GITHUB_TOKEN" 
-               alt="Top Languages" 
-               width="400" 
-               style="border-radius: 10px; border: 2px solid #58a6ff;" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</p>
+## 🚀 GitHub Stats & 💻 Most Used Languages
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=manishjangid2005&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" 
+           alt="Manish's GitHub Stats" 
+           width="400" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishjangid2005&layout=compact&theme=dark&hide_border=true&langs_count=10&card_width=400" 
+           alt="Top Languages" 
+           width="400" />
+    </td>
+  </tr>
+</table>
+
+
+
+
+
 
 
 
