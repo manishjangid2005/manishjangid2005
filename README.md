@@ -61,19 +61,32 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!-- GitHub Streak Section -->
 <h2 align="center" style="color: #FF4500;">🔥 GitHub Streak 🔥</h2>
 <p align="center">
   <a href="https://github.com/manishjangid2005">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=manishjangid2005&theme=transparent&hide_border=true&v=2" 
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=manishjangid2005&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" 
          alt="GitHub Streak Stats for Manish Jangid"  
          width="400" 
          style="border-radius: 10px; border: 2px solid #FF4500; box-shadow: 0 4px 15px rgba(255, 69, 0, 0.3);" />
   </a>
 </p>
 <p align="center" style="font-size: 1.1em; color: #FF4500;">
-  Let's keep the streak alive! 🚀✨<br />
-  Current streak: <strong>🗓️ Today</strong> - Make your contribution now!
+  Streak updates automatically based on contributions made today! 🚀✨
 </p>
 <hr style="border-top: 2px solid #FF4500;" />
 
@@ -99,42 +112,31 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!-- GitHub Stats and Top Languages Section -->
-## 🚀 GitHub Stats & 💻 Most Used Languages
+<h2 align="center">🚀 GitHub Stats & 💻 Most Used Languages</h2>
 
 <table align="center">
   <tr>
+    <!-- GitHub Stats -->
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=manishjangid2005&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" 
-           alt="Manish's GitHub Stats" 
-           width="400" />
+      <a href="https://github.com/manishjangid2005">
+        <img src="https://github-readme-stats.vercel.app/api?username=manishjangid2005&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&v=2" 
+             alt="Manish's GitHub Stats" 
+             width="400" 
+             style="border-radius: 10px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);" />
+      </a>
     </td>
+    <!-- Most Used Languages -->
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishjangid2005&layout=compact&theme=dark&hide_border=true&langs_count=10&card_width=400" 
-           alt="Top Languages" 
-           width="400" />
+      <a href="https://github.com/manishjangid2005">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishjangid2005&layout=compact&theme=dark&hide_border=true&langs_count=10&card_width=400&v=2" 
+             alt="Top Languages" 
+             width="400" 
+             style="border-radius: 10px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);" />
+      </a>
     </td>
   </tr>
 </table>
-
 
 
 
