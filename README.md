@@ -1,6 +1,6 @@
 <h1 align="center"> 
   <img src="https://readme-typing-svg.herokuapp.com/?font=Alice&size=40&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome!+I'm+Manish+Jangid" alt="Typing SVG">
-</h1>
+</h1> 
   
 <h2 align="center" style="color: #FF4500;">Java Developer | Frontend Enthusiast | Lifelong Learner</h2>
 
