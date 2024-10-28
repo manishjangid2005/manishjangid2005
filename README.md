@@ -120,7 +120,7 @@
     <!-- GitHub Stats -->
     <td>
       <a href="https://github.com/manishjangid2005">
-        <img src="https://github-readme-stats.vercel.app/api?username=manishjangid2005&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&v=2" 
+        <img src="https://github-readme-stats.vercel.app/api?username=manishjangid2005&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&cache_bust=1" 
              alt="Manish's GitHub Stats" 
              width="400" 
              style="border-radius: 10px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);" />
@@ -129,7 +129,7 @@
     <!-- Most Used Languages -->
     <td>
       <a href="https://github.com/manishjangid2005">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishjangid2005&layout=compact&theme=dark&hide_border=true&langs_count=10&card_width=400&v=2" 
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishjangid2005&layout=compact&theme=dark&hide_border=true&langs_count=10&card_width=400&cache_bust=1" 
              alt="Top Languages" 
              width="400" 
              style="border-radius: 10px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);" />
@@ -137,6 +137,8 @@
     </td>
   </tr>
 </table>
+
+
 
 
 
