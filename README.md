@@ -7,7 +7,7 @@
 <p align="center" style="max-width: 800px; margin: 0 auto; font-size: 1.2em; line-height: 1.6; text-align: justify; padding: 20px; border-radius: 10px; background: rgba(255, 69, 0, 0.1);">
   I am a passionate Java developer with a solid foundation in Core Java and a growing interest in frontend technologies. My mission is to create seamless and engaging user experiences through innovative solutions and technical excellence.
 </p>
- 
+  
 <br>
  
 
