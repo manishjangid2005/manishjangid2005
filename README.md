@@ -152,58 +152,67 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- Languages & Tools Section - Icons Only -->
+<!-- Languages & Tools Section - Table Format -->
 <h2 align="center">💻 Technologies I Work With</h2>
-<p align="center">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="60" height="60"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="60" height="60"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="60" height="60"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="60" height="60"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="60" height="60"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="60" height="60"/>
-  </a>
-</p>
-
-
-
-
-
-
-
+<table align="center">
+  <tr>
+    <td align="center" width="80">
+      <a href="https://www.java.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="60" height="60"/>
+      </a>
+    </td>
+    <td align="center" width="80">
+      <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="60" height="60"/>
+      </a>
+    </td>
+    <td align="center" width="80">
+      <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60"/>
+      </a>
+    </td>
+    <td align="center" width="80">
+      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="60" height="60"/>
+      </a>
+    </td>
+    <td align="center" width="80">
+      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="60" height="60"/>
+      </a>
+    </td>
+    <td align="center" width="80">
+      <a href="https://www.python.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
+      </a>
+    </td>
+    <td align="center" width="80">
+      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60"/>
+      </a>
+    </td>
+    <td align="center" width="80">
+      <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="60" height="60"/>
+      </a>
+    </td>
+    <td align="center" width="80">
+      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="60" height="60"/>
+      </a>
+    </td>
+    <td align="center" width="80">
+      <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="Spring Boot" width="60" height="60"/>
+      </a>
+    </td>
+    <td align="center" width="80">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 
@@ -222,4 +231,24 @@
 
 
 <!-- Footer Section -->
-<h4 align="center" style="color: #c9d1d9; font-size: 1em;">Thank you for visiting my profile! 🌟</h4>
+## 🙌 Thank You!
+
+<p align="center">
+  🌟 Thank you for visiting my profile! I’m glad you’re here. 🌟
+</p>
+
+<p align="center">
+  <a href="https://github.com/manishjangid2005?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/My%20Projects-✨-green?style=for-the-badge" alt="My Projects" />
+  </a>
+  <a href="https://www.linkedin.com/in/manishjangid2005/" target="_blank">
+    <img src="https://img.shields.io/badge/Connect%20with%20me-LinkedIn-blue?style=for-the-badge" alt="Connect with me" />
+  </a>
+  <a href="mailto:manishjangid2005@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email%20Me-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
+  </a>
+</p>
+
+<p align="center">
+  "Keep learning, keep growing 🚀"
+</p>
